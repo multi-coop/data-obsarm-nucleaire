@@ -188,49 +188,49 @@
                 { 
                   "color" : "#a6cee3", 
                   "symbolLocal": "http://localhost:8850/statics/icons/radiation.png",
-                  "symbol": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-obsarm-nucleaire/-/blob/main/icons/radiation.png",
+                  "symbol": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-obsarm-nucleaire/-/raw/main/icons/radiation.png",
                   "value" : "autre"
                 },
                 { 
                   "color" : "#1f78b4", 
                   "symbolLocal": "http://localhost:8850/statics/icons/nuclear-plant.png",
-                  "symbol": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-obsarm-nucleaire/-/blob/main/icons/nuclear-plant.png",
+                  "symbol": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-obsarm-nucleaire/-/raw/main/icons/nuclear-plant.png",
                   "value" : "centrale"
                 },
                 { 
                   "color" : "#b2df8a", 
                   "symbolLocal": "http://localhost:8850/statics/icons/radioactive.png",
-                  "symbol": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-obsarm-nucleaire/-/blob/main/icons/radioactive.png",
+                  "symbol": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-obsarm-nucleaire/-/raw/main/icons/radioactive.png",
                   "value" : "combustible"
                 },
                 { 
                   "color" : "#33a02c", 
                   "symbolLocal": "http://localhost:8850/statics/icons/nuclear-waste.png",
-                  "symbol": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-obsarm-nucleaire/-/blob/main/icons/nuclear-waste.png",
+                  "symbol": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-obsarm-nucleaire/-/raw/main/icons/nuclear-waste.png",
                   "value" : "déchets"
                 },
                 { 
                   "color" : "#fb9a99", 
                   "symbolLocal": "http://localhost:8850/statics/icons/bomb.png",
-                  "symbol": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-obsarm-nucleaire/-/blob/main/icons/bomb.png",
+                  "symbol": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-obsarm-nucleaire/-/raw/main/icons/bomb.png",
                   "value" : "militaire"
                 },
                 { 
                   "color" : "#e31a1c", 
                   "symbolLocal": "http://localhost:8850/statics/icons/uranium.png",
-                  "symbol": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-obsarm-nucleaire/-/blob/main/icons/uranium.png",
+                  "symbol": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-obsarm-nucleaire/-/raw/main/icons/uranium.png",
                   "value" : "mine"
                 },
                 { 
                   "color" : "#fdbf6f", 
                   "symbolLocal": "http://localhost:8850/statics/icons/nuclear-plant.png",
-                  "symbol": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-obsarm-nucleaire/-/blob/main/icons/nuclear-plant.png",
+                  "symbol": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-obsarm-nucleaire/-/raw/main/icons/nuclear-plant.png",
                   "value" : "réacteur"
                 },
                 { 
                   "color" : "#ff7f00", 
                   "symbolLocal": "http://localhost:8850/statics/icons/research.png",
-                  "symbol": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-obsarm-nucleaire/-/blob/main/icons/research.png",
+                  "symbol": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-obsarm-nucleaire/-/raw/main/icons/research.png",
                   "value" : "recherche"
                 }
               ]

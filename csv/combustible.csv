@@ -1,0 +1,8 @@
+Lieu;idmotspip;Type;SousType;Description;AnneeMSI;AnneeMAD;Status;FranceNuc;Andra;EDF;INSC;url;nbPhotos;the_geom;PlaceApproximative;Priority;RecNo;RecNoPere;UpdateTimestamp;longitude;latitude
+Orsay;0;combustible;;usine-pilote de frittage;NULL;NULL;Arrêt définitif;idfg_orsay_f.htm;IGC41.pdf;;;;0;;0;100;64;NULL;2018-10-12 13:02:05;2.17150742539402;48.6980864890083
+Veurey-Voroize;0;combustible;;usine de fabrication de combustibles à l'uranium;NULL;NULL;;rhone_veu_f.htm;RHO10.pdf;;;;1;;1;100;49;NULL;2018-10-12 13:02:05;5.61715797943648;45.2684950364882
+Bonneuil sur Marne;0;combustible;;production du combustible;NULL;NULL;Arrêt définitif;idfp_bon_f.htm;;;;;0;;1;100;33;NULL;2018-10-12 13:02:05;2.49212657107618;48.750379185235
+La Hague;167;combustible;retraitement;usines de retraitement de combustibles irradiés pour produire le plutonium militaire et civil;NULL;NULL;Marche;bnorm_hague_f.htm;BAN3-12-13.pdf;;;;0;;1;100;73;NULL;2018-12-18 15:42:50;-1.88218;49.67865
+Comhurex Pierrelatte;159;combustible;enrichissement;conversion et enrichissement de l'uranium;NULL;NULL;Marche;rhone_tri_f.htm;RHO13-16-43-etc.pdf;;;;2;;0;100;62;NULL;2018-12-18 15:40:09;4.72130720076016;44.336814500979
+Romans sur Isère - FBFC;166;combustible;combustible;usines de fabrication de combustible;NULL;NULL;;rhone_rom_f.htm;RHO17.pdf;;;;2;;1;100;37;NULL;2018-12-18 15:41:54;5.07068674486404;45.0453803711334
+Comhurex Malvesi;155;combustible;;AREVA NC usine de raffinage et de conversion d'uranium;NULL;NULL;Marche;lang_malv_f.htm;LAR5-12.pdf;;;;5;;1;100;40;NULL;2018-12-18 15:39:37;2.89530604844644;43.2417418160369

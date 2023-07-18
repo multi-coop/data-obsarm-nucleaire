@@ -1,0 +1,13 @@
+Lieu;idmotspip;Type;SousType;Description;AnneeMSI;AnneeMAD;Status;FranceNuc;Andra;EDF;INSC;url;nbPhotos;the_geom;PlaceApproximative;Priority;RecNo;RecNoPere;UpdateTimestamp;longitude;latitude
+Ionisos Orsay;0;autre;irradiateur;Ionisos;NULL;NULL;Arrêt définitif;;;;;;0;;0;40;123;NULL;2018-10-12 13:02:05;2.17558255740374;48.7153932238124
+Saint Martin la Porte;0;autre;;usine de production de béryllium et de thorium;NULL;NULL;Arrêt définitif;rhone_calyp_f.htm;;;;;0;;1;20;30;NULL;2018-10-12 13:02:05;6.44808600000002;45.240058
+Frenay - La Praz Tepp;0;autre;;usine de fabrication de béryllium et de carbure d'uranium. et décharge;NULL;NULL;Arrêt définitif;rhone_praz_f.htm;;;;;0;;1;20;28;NULL;2018-10-12 13:02:05;6.62778394202846;45.1949354835316
+Sable;0;autre;stérilisateur;Ionisos;NULL;NULL;Marche;;;;;http://www.ionisos.com/fr/sable.html;0;;0;100;112;NULL;2018-10-12 13:02:05;-0.300705918121111;47.8254496360651
+Pouzauges;0;autre;irradiateur;Ionisos;NULL;NULL;Marche;;;;;http://www.ionisos.fr/fr/pouzauges.html;1;;0;100;110;NULL;2018-10-12 13:02:05;-0.842999036557941;46.7710744629342
+Marseille;0;autre;irradiateur;irradiateur Isotron ex Gammaster (aliments et instruments chirurgicaux);NULL;NULL;Marche;;;;;http://resosol.org/Gazette/1989/94_95_22.html;1;;1;100;109;NULL;2018-10-12 13:02:05;5.38351175963633;43.3355544285898
+Chaumesnil;0;autre;irradiateur;Ionisos;NULL;NULL;Marche;;;;;http://www.ionisos.com/fr/chaumesnil.html;0;;0;100;108;NULL;2018-10-12 13:02:05;4.61495291657722;48.3628203737946
+Dagneux;0;autre;irradiateur;Ionisos;NULL;NULL;Marche;;;;;http://www.ionisos.com/fr/dagneux.html;0;;1;100;111;NULL;2018-10-12 13:02:05;5.05972904699661;45.841111784191
+Valognes;0;autre;gare;gare ferroviaire de La Hague;NULL;NULL;Marche;;;;;;0;;0;100;119;NULL;2018-10-12 13:02:05;-1.49903;49.50889
+Saint Sylvain d'Anjou;0;autre;sous-traitant;CMI. chaudronnerie industrielle. travaille pour le projet EPR;NULL;NULL;;;;;;;0;;0;60;207;NULL;2018-10-12 13:02:05;-0.47961;47.53137
+Montreuil-Juigné;0;autre;crayons;tubes pour le gainage des tubes des assemblages combustibles;NULL;NULL;;;;;;;0;;1;20;208;NULL;2018-10-12 13:02:05;-0.6179;47.52939
+Brienne-le-Château;0;autre;gare;terminal ferrovaire du CSA ;NULL;NULL;;champ_csa_f.htm;;;;http://www.andra.fr/index.php?id=glossaire__1_1&lettre=C;0;;0;80;211;NULL;2018-10-12 13:02:05;4.53196;48.39564

@@ -1,0 +1,7 @@
+Lieu;idmotspip;Type;SousType;Description;AnneeMSI;AnneeMAD;Status;FranceNuc;Andra;EDF;INSC;url;nbPhotos;the_geom;PlaceApproximative;Priority;RecNo;RecNoPere;UpdateTimestamp;longitude;latitude
+Prévessin-Moens;0;recherche;;CERN - partie française du Centre Européen de Recherches Nucléaires;NULL;NULL;;rhone_cern_f.htm;;;;;0;;1;100;60;NULL;2018-10-12 13:02:05;6.08413954202757;46.2541469371772
+Fontenay-aux-Roses;0;recherche;;CEA - centre de recherche et développement. officiellement civil;NULL;NULL;Marche;idfp_font_f.htm;;;;;0;;0;100;79;NULL;2018-10-12 13:02:05;2.27653515839616;48.7905200083135
+Fontenay-aux-Roses;0;recherche;;CEA - centre de recherche et développement. officiellement civil;NULL;NULL;Marche;idfp_font_f.htm;;;;;0;;0;100;124;NULL;2018-10-12 13:02:05;2.27617160183142;48.7898706877657
+Saclay;177;recherche;;CEA - recherche fondamentale et appliquée;NULL;NULL;Marche;idfg_sac_f.htm;;;;;0;;0;100;122;NULL;2018-12-18 15:46:34;2.15200302659242;48.7284544583013
+Grenoble;192;recherche;;Centre d'Études Nucléaires de Grenoble - recherche théorique et appliquée;NULL;NULL;;rhone_cen_f.htm;;;;http://www.francenuc.org/fr_sites/rhone_ill_f.htm;7;;0;100;76;NULL;2018-12-18 15:35:57;5.69684562805296;45.2037511114213
+Caen;0;recherche;;GANIL - laboratoire de recherche fondamentale;NULL;NULL;Marche;bnorm_ganil_f.htm;;;;;0;;0;100;89;NULL;2018-10-12 13:02:05;-0.360423927210273;49.2114467969772

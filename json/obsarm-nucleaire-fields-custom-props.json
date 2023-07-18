@@ -1,0 +1,80 @@
+{
+  "fields": [
+    {
+      "name": "Type",
+      "subtype": "tag",
+      "definitions": [
+        {
+          "value": "autre",
+          "label": "autre",
+          "bgColor": "#a6cee3",
+          "symbol": "http://localhost:8850/statics/icons/radiation.png"
+        },
+        {
+          "value": "centrale",
+          "label": "centrale",
+          "bgColor": "#1f78b4",
+          "symbol": "http://localhost:8850/statics/icons/nuclear-plant.png"
+        },
+        {
+          "value": "combustible",
+          "label": "combustible",
+          "bgColor": "#b2df8a",
+          "symbol": "http://localhost:8850/statics/icons/radioactive.png"
+        },
+        {
+          "value": "déchets",
+          "label": "déchets",
+          "bgColor": "#33a02c",
+          "symbol": "http://localhost:8850/statics/icons/nuclear-waste.png"
+        },
+        {
+          "value": "militaire",
+          "label": "militaire",
+          "bgColor": "#fb9a99",
+          "symbol": "http://localhost:8850/statics/icons/bomb.png"
+        },
+        {
+          "value": "mine",
+          "label": "mine",
+          "bgColor": "#e31a1c",
+          "symbol": "http://localhost:8850/statics/icons/uranium.png"
+        },
+        {
+          "value": "réacteur",
+          "label": "réacteur",
+          "bgColor": "#fdbf6f",
+          "symbol": "http://localhost:8850/statics/icons/nuclear-plant.png"
+        },
+        {
+          "value": "recherche",
+          "label": "recherche",
+          "bgColor": "#ff7f00",
+          "symbol": "http://localhost:8850/statics/icons/research.png"
+        }
+      ]
+    },
+    {
+      "name": "SousType",
+      "subtype": "tag",
+      "bgColor": "#C70039"
+    },
+    {
+      "name": "Status",
+      "subtype": "tag",
+      "bgColor": "#C70039"
+    },
+    {
+      "name": "url",
+      "subtype": "link"
+    },
+    {
+      "name": "latitude",
+      "subtype": "geopoint"
+    },
+    {
+      "name": "longitude",
+      "subtype": "geopoint"
+    }
+  ]
+}

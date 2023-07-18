@@ -1,0 +1,22 @@
+Lieu;idmotspip;Type;SousType;Description;AnneeMSI;AnneeMAD;Status;FranceNuc;Andra;EDF;INSC;url;nbPhotos;the_geom;PlaceApproximative;Priority;RecNo;RecNoPere;UpdateTimestamp;longitude;latitude
+Creys-Malville SUPERPHÉNIX;149;centrale;SPX;production d'électricité et de plutonium;NULL;NULL;Arrêt définitif;rhone_crey_f.htm;;creys00.jpg;phenix;http://www.dissident-media.org/infonucleaire/phenix.html;4;;0;60;8;NULL;2018-12-18 15:40:42;5.46391187215265;45.7655224601807
+Brennilis;175;centrale;EL;production d'électricité;NULL;NULL;Arrêt définitif;bret_brenn_f.htm;;;monts_d_arree;;3;;0;50;6;NULL;2018-10-26 15:45:55;-3.88059490969883;48.3523416661398
+Gravelines;171;centrale;6 x 900 MW;production d'électricité;NULL;NULL;;nord_grav_f.htm;;gravelines00.jpg;gravelines;;6;;0;100;18;NULL;2018-10-26 15:48:51;2.12050875780145;51.0238094759591
+Le Tricastin;113;centrale;4 x 900 MW;production d'électricité;NULL;NULL;;rhone_tri_f.htm;;tricastin00.jpg;tricastin;;0;;0;100;4;NULL;2018-10-26 15:56:38;4.73572106079152;44.3313384265488
+Bugey;104;centrale;4 x 900 MW;production d'électricité et de plutonium;NULL;NULL;;rhone_bug_f.htm;;bugey00.jpg;bugey;;7;;0;100;9;NULL;2018-10-26 15:56:38;5.26653818802291;45.8072248013421
+Blayais;136;centrale;4 x 900 MW;production d'électricité;NULL;NULL;;aquit_blay_f.htm;;blayais00.jpg;blayais;;6;;0;100;3;NULL;2018-10-26 15:49:15;-0.690812850465903;45.262563241595
+Dampierre;132;centrale;4 x 900 MW;production d'électricité;NULL;NULL;;cen_dam_f.htm;;dampierre00.jpg;dampierre;;3;;0;100;2;NULL;2018-10-26 15:46:59;2.49997396805297;47.7250387096602
+Cruas-Meysse;134;centrale;4 x 900 MW;production d'électricité;NULL;NULL;;rhone_cru_f.htm;;cruas-meysse00.jpg;cruas;;5;;0;100;16;NULL;2018-10-26 15:45:55;4.7516943051636;44.6214395114098
+Chinon;169;centrale;4 x 900 MW;production d'électricité et de plutonium;NULL;NULL;;cen_chinon_f.htm;;chinon00.jpg;chinon;;3;;0;100;7;NULL;2018-10-26 15:45:55;0.179644070275217;47.2272502583534
+Paluel;131;centrale;4 x 1300 MW;production d'électricité;NULL;NULL;;hnorm_pal_f.htm;;paluel00.jpg;paluel;;2;;0;100;17;NULL;2018-10-26 15:56:38;0.631919182566307;49.8690826872633
+Cattenom;105;centrale;4 x 1300 MW;production d'électricité;NULL;NULL;;lorr_catt_f.htm;;cattenom00.jpg;cattenom;;3;;0;100;5;NULL;2018-10-26 15:45:55;6.20986750900349;49.4021312531677
+Saint Laurent des Eaux;174;centrale;2 x 900 MW;production d'électricité et de plutonium;NULL;NULL;;cen_sain_f.htm;;saint-laurent-des-eaux00.jpg;saint-laurent;;4;;0;100;11;NULL;2018-10-26 15:56:38;1.5932425934032;47.719143895972
+Fessenheim;161;centrale;2 x 900 MW;production d'électricité;NULL;NULL;;als_fess_f.htm;;fessenheim00.jpg;fessenheim;;2;;0;100;19;NULL;2018-10-26 15:57:20;7.55997084102097;47.9086430613095
+Civaux;109;centrale;2 x 1550 MW;production d'électricité;NULL;NULL;;poit_civ_f.htm;;civaux00.jpg;civaux;;5;;0;100;10;NULL;2018-10-26 15:45:55;0.667699870373724;46.4606295837955
+Chooz;137;centrale;2 x 1450 MW;production d'électricité;NULL;NULL;;champ_chooz_f.htm;;chooz00.jpg;chooz;;1;;0;100;13;NULL;2018-10-26 15:45:55;4.7862924116337;50.0822545920945
+Flamanville;170;centrale;2 x 1300 MW + EPR;production d'électricité;NULL;NULL;;bnorm_flam_f.htm;;flamanville00.jpg;flamanville;;0;;0;100;12;NULL;2018-10-26 15:48:16;-1.88326643549198;49.5480120274562
+Saint-Alban-du-Rhône;173;centrale;2 x 1300 MW;production d'électricité;NULL;NULL;;rhone_alb_f.htm;;saint-alban00.jpg;saint-alban;;5;;0;100;14;NULL;2018-10-26 15:46:31;4.75007719530291;45.4024100171543
+Penly;111;centrale;2 x 1300 MW;production d'électricité;NULL;NULL;;hnorm_penly_f.htm;;penly00.jpg.html;penly;http://www.mediapart.fr/journal/france/250611/rares-photos-dune-fuite-dans-une-centrale-nucleaire;2;;0;100;20;NULL;2018-10-26 15:56:38;1.16487261680204;49.9873585361577
+Nogent-sur-Seine;172;centrale;2 x 1300 MW;production d'électricité;NULL;NULL;;champ_nog_f.htm;;nogent00.jpg;nogent;;4;;0;100;21;NULL;2018-10-26 15:56:38;3.52143396227238;48.5231847484729
+Golfech;110;centrale;2 x 1300 MW;production d'électricité;NULL;NULL;;midi_gol_f.htm;;golfech00.jpg;golfech;;4;;0;100;15;NULL;2018-10-26 15:48:30;0.839084099704749;44.1012875533318
+Belleville-sur-Loire;168;centrale;2 x 1300 MW;production d'électricité;NULL;NULL;;cen_bell_f.htm;;belleville00.jpg;belleville;;3;;0;100;1;NULL;2018-10-26 15:45:55;2.86895170479602;47.5166515694487

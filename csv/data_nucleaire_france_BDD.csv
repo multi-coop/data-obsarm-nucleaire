@@ -1,0 +1,214 @@
+Lieu;idmotspip;Type;SousType;Description;AnneeMSI;AnneeMAD;Status;FranceNuc;Andra;EDF;INSC;url;nbPhotos;the_geom;PlaceApproximative;Priority;RecNo;RecNoPere;UpdateTimestamp;longitude;latitude
+Bugey 3;0;réacteur;900 MW;palier CPO;1978;NULL;Marche;rhone_bug_f.htm;;;69;;0;;1;100;194;9;2018-10-12 13:02:05;5.26653818802291;45.8072248013421
+Bugey 2;0;réacteur;900 MW;palier CPO;1978;NULL;Marche;rhone_bug_f.htm;;;68;;0;;1;100;193;9;2018-10-12 13:02:05;5.26653818802291;45.8072248013421
+EL4;0;réacteur;70 MW;prototype EL;1967;1985;Arrêt définitif;bret_brenn_f.htm;;;505;;0;;0;50;190;6;2018-10-12 13:02:05;-3.88059490969883;48.3523416661398
+Ionisos Orsay;0;autre;irradiateur;Ionisos;NULL;NULL;Arrêt définitif;;;;;;0;;0;40;123;NULL;2018-10-12 13:02:05;2.17558255740374;48.7153932238124
+Chinon A1;0;réacteur;70 MW;UNGG;1963;1973;Arrêt définitif;cen_chinon_f.htm;;;499;;0;;1;100;143;7;2018-10-12 13:02:05;0.179644070275217;47.2272502583534
+Bugey 1;0;réacteur;540 MW;UNGG;1972;1994;Arrêt définitif;rhone_bug_f.htm;;;67;;0;;1;20;192;9;2018-10-12 13:02:05;5.26653818802291;45.8072248013421
+Saint Laurent des Eaux A1;0;réacteur;480 MW;UNGG;1969;1990;Arrêt définitif;cen_sain_f.htm;;;506;;0;;1;100;153;11;2018-10-12 13:02:05;1.5932425934032;47.719143895972
+Chinon A3;0;réacteur;480 MW;UNGG;1966;1990;Arrêt définitif;cen_chinon_f.htm;;;501;;0;;1;100;145;7;2018-10-12 13:02:05;0.179644070275217;47.2272502583534
+Saint Laurent des Eaux A2;0;réacteur;420 MW;UNGG;1971;1992;Arrêt définitif;cen_sain_f.htm;;;507;;0;;1;100;154;11;2018-10-12 13:02:05;1.5932425934032;47.719143895972
+Chooz A;0;réacteur;300 MW;prototype;1966;1991;Arrêt définitif;;;;502;;0;;1;100;160;13;2018-10-12 13:02:05;4.7862924116337;50.0822545920945
+Chinon A2;0;réacteur;210 MW;UNGG;1965;1985;Arrêt définitif;cen_chinon_f.htm;;;500;;0;;1;100;144;7;2018-10-12 13:02:05;0.179644070275217;47.2272502583534
+Civaux 2;0;réacteur;1450 MW;palier N4;1999;NULL;Marche;;;;119;;0;;1;100;151;10;2018-10-12 13:02:05;0.667699870373724;46.4606295837955
+Civaux 1;0;réacteur;1450 MW;palier N4;1997;NULL;Marche;;;;118;;0;;1;100;150;10;2018-10-12 13:02:05;0.667699870373724;46.4606295837955
+Chooz B2;0;réacteur;1450 MW;palier N4;1997;NULL;Marche;;;;117;;0;;1;100;162;13;2018-10-12 13:02:05;4.7862924116337;50.0822545920945
+Saint-Alban 2;0;réacteur;1300 MW;palier P4;1986;NULL;Marche;;;;101;;0;;1;100;164;14;2018-10-12 13:02:05;4.75007719530291;45.4024100171543
+Chooz B1;0;réacteur;1450 MW;palier N4;1996;NULL;Marche;;;;116;;0;;1;100;161;13;2018-10-12 13:02:05;4.7862924116337;50.0822545920945
+Saint-Alban 1;0;réacteur;1300 MW;palier P4;1985;NULL;Marche;;;;100;;0;;1;100;163;14;2018-10-12 13:02:05;4.75007719530291;45.4024100171543
+Penly 2;0;réacteur;1300 MW;palier Génération III;1992;NULL;Marche;;;;113;;0;;1;100;184;20;2018-10-12 13:02:05;1.16487261680204;49.9873585361577
+Penly 1;0;réacteur;1300 MW;palier P'4;1990;NULL;Marche;;;;112;;0;;1;100;183;20;2018-10-12 13:02:05;1.16487261680204;49.9873585361577
+Paluel 4;0;réacteur;1300 MW;palier P4;1986;NULL;Marche;;;;95;;0;;1;100;174;17;2018-10-12 13:02:05;0.631919182566307;49.8690826872633
+Paluel 3;0;réacteur;1300 MW;palier P4;1985;NULL;Marche;;;;94;;0;;1;100;173;17;2018-10-12 13:02:05;0.631919182566307;49.8690826872633
+Paluel 2;0;réacteur;1300 MW;palier P4;1984;NULL;Marche;;;;93;;0;;1;100;172;17;2018-10-12 13:02:05;0.631919182566307;49.8690826872633
+Nogent 2;0;réacteur;1300 MW;palier P'4;1988;NULL;Marche;;;;111;;0;;1;100;187;21;2018-10-12 13:02:05;3.52143396227238;48.5231847484729
+Paluel 1;0;réacteur;1300 MW;palier P4;1984;NULL;Marche;;;;92;;0;;1;100;171;17;2018-10-12 13:02:05;0.631919182566307;49.8690826872633
+Nogent 1;0;réacteur;1300 MW;palier P'4;1987;NULL;Marche;;;;110;;0;;1;100;186;21;2018-10-12 13:02:05;3.52143396227238;48.5231847484729
+Golfech 2;0;réacteur;1300 MW;palier P'4;1993;NULL;Marche;;;;115;;0;;1;100;166;15;2018-10-12 13:02:05;0.839084099704749;44.1012875533318
+Golfech 1;0;réacteur;1300 MW;palier P'4;1990;NULL;Marche;;;;114;;0;;1;100;165;15;2018-10-12 13:02:05;0.839084099704749;44.1012875533318
+Flamanville 2;0;réacteur;1300 MW;palier P4;1986;NULL;Marche;;;;103;;0;;1;100;158;12;2018-10-12 13:02:05;-1.88326643549198;49.5480120274562
+Flamanville 1;0;réacteur;1300 MW;palier P4;1985;NULL;Marche;;;;102;;0;;1;100;157;12;2018-10-12 13:02:05;-1.88326643549198;49.5480120274562
+Cattenom 4;0;réacteur;1300 MW;palier P'4;1991;NULL;Marche;;;;107;;0;;1;100;142;5;2018-10-12 13:02:05;6.20986750900349;49.4021312531677
+Cattenom 3;0;réacteur;1300 MW;palier P'4;1990;NULL;Marche;;;;106;;0;;1;100;141;5;2018-10-12 13:02:05;6.20986750900349;49.4021312531677
+Cattenom 1;0;réacteur;1300 MW;palier P'4;1986;NULL;Marche;;;;104;;0;;1;100;139;5;2018-10-12 13:02:05;6.20986750900349;49.4021312531677
+Cattenom 2;0;réacteur;1300 MW;palier P'4;1987;NULL;Marche;;;;105;;0;;1;100;140;5;2018-10-12 13:02:05;6.20986750900349;49.4021312531677
+Belleville 2;0;réacteur;1300 MW;palier P4;1988;NULL;Marche;;;;109;;0;;1;100;126;1;2018-10-12 13:02:05;2.86895170479602;47.5166515694487
+Belleville 1;0;réacteur;1300 MW;palier P4;1987;NULL;Marche;;;;108;;0;;1;100;125;1;2018-10-12 13:02:05;2.86895170479602;47.5166515694487
+Saint-Pierre-du-Cantal;0;mine;;mine et usine de traitement de minerai;NULL;NULL;Arrêt définitif;auv_cantal_f.htm;;;;;5;;1;100;39;NULL;2018-10-12 13:02:05;2.33581453043601;45.3841385764557
+Saint-Priest-la-Prugne;0;mine;;mine et usine de traitement de minerai;NULL;NULL;Arrêt définitif;rhone_pries_f.htm;;;;;7;;1;100;55;NULL;2018-10-12 13:02:05;3.7189793586731;45.9677429933309
+Rophin Lachaux;0;mine;;production d'uranium;NULL;NULL;Arrêt définitif;auv_roph_f.htm;;;;;0;;1;20;22;NULL;2018-10-12 13:02:05;3.59284300000003;45.994546
+Peny Margnac Compreignac;0;mine;;production de minerai;NULL;NULL;Arrêt définitif;lim_mar_f.htm;;;;http://www.francenuc.org/fr_sites/lim_peny_f.htm;0;;1;100;38;NULL;2018-10-12 13:02:05;1.27769514344379;45.9903402596293
+Nogent sur Marne;0;mine;;usine pour l'extraction de radium;NULL;NULL;Démantelé;idfp_nog_f.htm;;;;;0;;1;100;24;NULL;2018-10-12 13:02:05;2.48797000000004;48.8371
+Montmassacrot;0;mine;;production d'uranium;NULL;NULL;Arrêt définitif;lim_mont_f.htm;;;;;1;;1;100;63;NULL;2018-10-12 13:02:05;1.37865136950313;46.0863575410297
+Lodêve;0;mine;;mines et usine de traitement de minerai;NULL;NULL;Arrêt définitif;lang_bosc_f.htm;;;;;2;;1;100;68;NULL;2018-10-12 13:02:05;3.32249887037036;43.7360855169791
+Le Cellier;0;mine;;production d'uranium;NULL;NULL;Arrêt définitif;lang_cel_f.htm;;;;;4;;1;100;41;NULL;2018-10-12 13:02:05;3.70733239740673;44.7226926811072
+La Commanderie Mallièvre;0;mine;;production d'uranium (mine. lixiviation);NULL;NULL;Arrêt définitif;pays_comm_f.htm;;;;http://www.francenuc.org/fr_chn/concentration_f.htm;2;;1;100;44;NULL;2018-10-12 13:02:05;-0.866446164136093;46.9109229266569
+Jouac;0;mine;;production d'uranium;NULL;NULL;Arrêt définitif;lim_jou_f.htm;;;;;2;;1;100;75;NULL;2018-10-12 13:02:05;1.25220008687828;46.3384860953719
+Île Saint Denis;0;mine;;extraction du radium à partir du minerai d'uranium;NULL;NULL;Arrêt définitif;idfp_denis_f.htm;;;;;0;;1;20;29;NULL;2018-10-12 13:02:05;2.31738900000004;48.935953
+Gueugnon;0;mine;;production d'uranium - usine de traitement de minerais et de préconcentrés d'uranium;1955;1980;Arrêt définitif;bourg_gue_f.htm;BOU3.pdf;;;;4;;1;100;72;NULL;2018-10-12 13:02:05;4.06671432267001;46.5949774596473
+Gâtigny l'Escarpière;0;mine;;production d'uranium - mine souterraine et à ciel ouvert;1952;1990;Arrêt définitif;pays_lecap_f.htm;;;;http://www.criirad.org/actualites/uraniumfrance/ecarpiere/somecarpiere.html;2;;1;100;45;NULL;2018-10-12 13:02:05;-1.24000945586096;47.0756882294898
+Fanay;0;mine;;CEA puis COGEMA - production d'uranium - site de la Division Minière de La Crouzille;1953;1992;Arrêt définitif;lim_fan_f.htm;LIM6.pdf;;;;0;;1;100;81;NULL;2018-10-12 13:02:05;1.35496297345119;46.0052652825175
+Domeyrot - la Ribière;0;mine;;mine et traitement de minerai;NULL;NULL;Arrêt définitif;lim_rib_f.htm;;;;http://www.acro.eu.org/rapport_creuse_2007.pdf;0;;1;100;43;NULL;2018-10-12 13:02:05;2.15764455781595;46.2476772180451
+Bessines-sur-Gartempe;0;mine;;production d'uranium - mine souterraine et à ciel ouvert (mine du Brugeaud);1955;1972;Arrêt définitif;lim_bes_f.htm;LIM3.pdf;;;http://www.francenuc.org/fr_sites/lim_mont_f.htm;3;;1;100;96;NULL;2018-10-12 13:02:05;1.36806327692969;46.1136788871114
+Bellezane;0;mine;;production d'uranium;NULL;NULL;Arrêt définitif;lim_bel_f.htm;;;;;0;;1;100;34;NULL;2018-10-12 13:02:05;1.42620827819253;46.0803879746857
+Bertholène;0;mine;;extraction et traitement du minerai d'uranium - mine souterraine et à ciel ouvert;1977;1994;Arrêt définitif;midi_bert_f.htm;MIP1.pdf;;;;1;;1;100;97;NULL;2018-10-12 13:02:05;2.77674908232301;44.3955590725517
+Bauzot Issy l'Evêque;0;mine;;production d'uranium;NULL;NULL;Arrêt définitif;bourg_bauzot_f.htm;;;;;3;;1;100;35;NULL;2018-10-12 13:02:05;3.97409000000002;46.708353
+Toulon;0;militaire;;soutien des forces marines et aéronavales;NULL;NULL;Marche;prov_toul_f.htm;;;;;1;;0;100;50;NULL;2018-10-12 13:02:05;5.91175377357069;43.1183616410658
+Saint-Hippolyte Bergheim;0;mine;;Teufelsloch & Schaentzel - production d'uranium;NULL;NULL;Arrêt définitif;als_hipp_f.htm;;;;;0;;1;100;36;NULL;2018-10-12 13:02:05;7.36423447381281;48.2050837128479
+Miramas;0;militaire;;"usine de production de lithium 6 (militaire) et 7 et de bore (civil) ; magasin d'entreposage d'uranium";NULL;NULL;Arrêt définitif;prov_mira_f.htm;;;;http://www.areva.com/FR/activites-715/fin-des-activites-de-chimie-du-combustible-a-areva-miramas.html;1;;0;100;118;NULL;2018-10-12 13:02:05;4.94709175540072;43.5603027468383
+Luxeuil;0;militaire;;base aérienne Mirage 2000N;NULL;NULL;Marche;franche_lux_f.htm;;;;;1;;0;20;25;NULL;2018-10-12 13:02:05;6.35490534376087;47.8016827243172
+Bruyères le Châtel;0;militaire;;centre de recherche et développement - déchets d'assainissement ou de démantèlement. résultant de la fermeture des principales installations nucléaires du site;NULL;NULL;;idfg_beg_f.htm;IGC21.pdf;;;;0;;1;100;31;NULL;2018-10-12 13:02:05;2.1878313367768;48.5917457554269
+Brest;0;militaire;;entretien et construction des bâtiments de la Marine;NULL;NULL;Marche;bret_brest_f.htm;;;;;0;;0;100;32;NULL;2018-10-12 13:02:05;-4.48225324862174;48.3807542556791
+Arcueil;0;militaire;;recherche;NULL;NULL;;idfp_arc_f.htm;IPC3-9-57.pdf;;;http://www.francenuc.org/fr_sites/idfp_fort_f.htm;0;;1;100;104;NULL;2018-10-12 13:02:05;2.33779384647207;48.8069999818394
+Arcueil;0;militaire;;recherche;NULL;NULL;;idfp_arc_f.htm;IPC3-9-57.pdf;;;http://www.francenuc.org/fr_sites/idfp_fort_f.htm;0;;1;100;103;NULL;2018-10-12 13:02:05;2.33728629897494;48.8081700054899
+Annecy;0;militaire;;usine de métallurgie et usinage de l'uranium;NULL;NULL;;rhone_ann_f.htm;;;;;0;;0;100;105;NULL;2018-10-12 13:02:05;6.12400293971944;45.9033915859514
+Arcueil;0;militaire;;Université de Paris - Institut du radium dit « Laboratoire d'Arcueil »;NULL;NULL;;idfp_arc_f.htm;IPC3-9-57.pdf;;;http://www.francenuc.org/fr_sites/idfp_fort_f.htm;0;;1;100;102;NULL;2018-10-12 13:02:05;2.33533607016498;48.8074196537768
+Paris. Elysée;0;militaire;PC de tir;PC Jupiter;NULL;NULL;Marche;;;;;;0;;1;100;197;NULL;2018-10-12 13:02:05;2.316486;48.870144
+Limeil Brévannes et Valenton;0;militaire;recherche;centre de recherche et développement militaires;NULL;NULL;Arrêt définitif;idfp_lim_f.htm;;;;;0;;1;20;26;NULL;2018-10-12 13:02:05;2.4863938827865;48.7491115958047
+Guenvenez;0;militaire;missiles;soutien de la Force Océanique Stratégique;NULL;NULL;Marche;bret_pres_f.htm;;;;;0;;0;100;80;NULL;2018-10-12 13:02:05;-4.51579944521595;48.2626454932214
+Mont Verdun;0;militaire;PC de tir;PC de secours;NULL;NULL;Marche;;;;;http://fr.wikipedia.org/wiki/Base_a%C3%A9rienne_942_Lyon-Mont_Verdun;0;;1;100;198;NULL;2018-10-12 13:02:05;4.783333;45.85
+Bourges;0;militaire;établissement technique;essais et production d'armements;NULL;NULL;Marche;cen_etab_f.htm;;;;;0;;1;100;92;NULL;2018-10-12 13:02:05;2.39630342131661;47.0826466065302
+Moruroa;0;militaire;essais nucléaires;site d'essais en Polynésie;NULL;NULL;Arrêt définitif;;;;;http://www.francenuc.org/fr_sites/idfg_beg_f.htm;0;;0;100;202;NULL;2018-10-12 13:02:05;-100;-21.833333333
+Reggane;0;militaire;essais nucléaires;site d'essais dans le Sahara algérien;NULL;NULL;Démantelé;;;;;;0;;1;100;200;NULL;2018-10-12 13:02:05;0.16372;26.71619
+In Eker;0;militaire;essais nucléaires;site d'essais dans le Sahara algérien;NULL;NULL;Démantelé;;;;;;0;;1;100;201;NULL;2018-10-12 13:02:05;-0.066667;23.31667
+La Montagne;0;militaire;déchets;;NULL;NULL;;;;;;;0;;1;100;71;NULL;2018-10-12 13:02:05;-1.68585999999952;47.1904550000058
+Fangataufa;0;militaire;essais nucléaires;site d'essais en Polynésie;NULL;NULL;Arrêt définitif;;;;;http://www.francenuc.org/fr_mat/tritium_f.htm;0;;1;100;203;NULL;2018-10-12 13:02:05;-100;-22.25
+Gramat;0;militaire;déchets;essais et expérimentation militaire;NULL;NULL;;midi_gram_f.htm;;;;;2;;1;100;78;NULL;2018-10-12 13:02:05;1.7246507019212;44.7793149198225
+Le Barp;0;militaire;;CESTA - centre de recherche et de production militaire;NULL;NULL;Marche;aquit_cesta_f.htm;;;;http://www-dam.cea.fr/statique/sitesDAM/vdc_cesta_accueil.htm;3;;0;100;91;NULL;2018-10-12 13:02:05;-0.7814;44.64582
+Châteaudun;0;déchets;militaire;site militaire centralisant des pièces d'aéronef contenant du thorium;NULL;NULL;;;CEN13.pdf;;;;0;;1;100;86;NULL;2018-10-12 13:02:05;1.33476374487754;48.0714683499432
+CEA Cadarache;106;militaire;;"centre de Cadarache - R&D dans le domaine des combustibles au plutonium et réacteurs ; fabrication de Mox";NULL;NULL;;prov_cadar_f.htm;;;;;14;;0;100;90;NULL;2018-12-17 14:10:33;5.75332337063149;43.689705980764
+Moronvilliers;0;militaire;;CEA DAM - polygone d'expérimentation militaire;NULL;NULL;Marche;champ_pem_f.htm;;;;http://www-dam.cea.fr/statique/sitesDAM/vdc_idf_focus.htm;2;;0;100;116;NULL;2018-10-12 13:02:05;4.32278875287943;49.2130393847414
+Valduc;107;militaire;;CEA - centre nucléaire pour la production d'armements;NULL;NULL;Marche;bourg_val_f.htm;;;;http://www-dam.cea.fr/statique/sitesDAM/vdc_valduc_accueil.htm;1;;0;100;120;NULL;2018-12-18 15:36:21;4.8800570967654;47.5604212857575
+Le Ripault;0;militaire;;CEA - centre de pyrotechnie et assemblage d'armements;NULL;NULL;Marche;cen_rip_f.htm;;;;;0;;1;100;113;NULL;2018-10-12 13:02:05;0.665382278635249;47.2900898280984
+Le Bouchet - Vert le;0;militaire;;CEA - usines de traitement de minerai et de raffinage et conversion de l'uranium;NULL;NULL;Arrêt définitif;idfg_bouchet_f.htm;;;;http://www.dissident-media.org/infonucleaire/hist_bouchet.html;0;;0;100;42;NULL;2018-10-12 13:02:05;2.36182603883975;48.5387043429211
+Bruyères le Châtel;0;militaire;;CEA - centre de recherche et développement;NULL;NULL;;idfg_beg_f.htm;;;;http://www-dam.cea.fr/statique/sitesDAM/vdc_idf_accueil.htm;0;;0;100;114;NULL;2018-10-12 13:02:05;2.20276693048284;48.5955386010139
+Île longue;0;militaire;base sous-marine;soutien de la Force Océanique Stratégique;NULL;NULL;Marche;bret_pres_f.htm;;;;;1;;0;100;82;NULL;2018-10-12 13:02:05;-4.50533404806237;48.3061655101728
+Landivisiau;0;militaire;base aérienne;avions avec armes nucléaires;NULL;NULL;Marche;;;;;http://www.francenuc.org/fr_chn/tetes_nucleaires_f.htm;0;;0;100;199;NULL;2018-10-12 13:02:05;-4.15064334869385;48.528411652786
+Cherbourg;0;militaire;arsenal;construction de bâtiments;NULL;NULL;Marche;bnorm_cherb_f.htm;;;;;2;;0;100;85;NULL;2018-10-12 13:02:05;-1.62026803730079;49.6494139509838
+Istres;0;militaire;base aérienne;défense aérienne;NULL;NULL;;prov_ist_f.htm;;;;;1;;0;30;27;NULL;2018-10-12 13:02:05;4.93621760194809;43.5235692051398
+Saint Laurent des Eaux;0;déchets;;entreposage de graphite;NULL;NULL;Marche;cen_sain_f.htm;;;;;0;;1;100;152;153;2018-10-12 13:02:05;1.5932425934032;47.719143895972
+Menneville;0;déchets;;Déchets enfouis sous plusieurs mètres de terre dans la période 1985-1987. en provenance de la Société HOECHST en Hollande;NULL;NULL;;;NPC5.pdf;;;;0;;1;100;66;NULL;2018-10-12 13:02:05;1.8489423881829;50.6733039778519
+Bollène;0;déchets;;Base Chaude Opérationnelle du Tricastin;1987;NULL;;prov_socat_f.htm;;;;;0;;0;100;107;NULL;2018-10-12 13:02:05;4.73188849083651;44.3204354337769
+Noyelles Godault;0;déchets;;usines Pennaroya - usine de traitement de déchets;NULL;NULL;;nord_noy_f.htm;;;;;0;;1;20;23;NULL;2018-10-12 13:02:05;2.98494322987905;50.4120716382425
+La Rochelle;0;déchets;;usine Chef de Baie - usine de production de terres rares;NULL;NULL;;poit_roch_f.htm;;;;;0;;0;100;70;NULL;2018-10-12 13:02:05;-1.15363999999997;46.158101
+Villejuif;0;déchets;stockage;DEBUS - récupération de métaux. autorisation de détenir jusqu'à 7 t d'uranium appauvri;NULL;NULL;;;IPC62.pdf;;;;0;;1;100;47;NULL;2018-10-12 13:02:05;2.36685827229438;48.7947175079614
+Vif;0;déchets;stockage;installation de stockage de déchets non dangereux utilisée par le passé par l'usine Cezus à Jarrie pour des résidus de procédé de fabrication;NULL;NULL;;;RHO11.pdf;;;;0;;1;100;48;NULL;2018-10-12 13:02:05;5.66961340846386;45.0557398481605
+Saint-Paul-les-Romans;0;déchets;stockage;Le procédé de conversion de l'uranium en hexafluorure d'uranium (UF6) conduit à la fabrication d'un sous-produit non valorisable. le fluorure de calcium (CaF2) appelé communément fluorine;NULL;NULL;;;RHO12.pdf;;;;0;;1;100;115;NULL;2018-10-12 13:02:05;5.13286799930228;45.0696496447605
+Saint-Quentin-sur-Isè;0;déchets;stockage;Lely (+ autre exploitant) - installation de stockage de déchets non dangereux (déchets de Sicn-Veurey-Voroize et de CEN-Grenoble);NULL;NULL;;;RHO9.pdf;;;;0;;1;100;54;NULL;2018-10-12 13:02:05;5.51909264018901;45.262398798026
+Pontailler-sur-Saône;0;déchets;stockage;installation de stockage de déchets dangereux ayant reçu des boues de décantation de très faible activité provenant du Centre d'Etudes de VALDUC;NULL;NULL;;;BOU1.pdf;;;;0;;1;100;57;NULL;2018-10-12 13:02:05;5.4115740125615;47.3050696868796
+Monteux;0;déchets;stockage;installation de stockage de déchets non dangereux. ayant reçu des déchets provenant de l'usine de la Société Européenne des Produits Réfractaires (SEPR) du Pontet (84)…;NULL;NULL;;;PRO14.pdf;;;;0;;1;100;61;NULL;2018-10-12 13:02:05;4.93674052439587;43.9789614764303
+Chilly-mazarin;0;déchets;stockage;des terres provenant de l'assainissement des terrains de l'ancienne usine de la Société Nouvelle du Radium (SNR) à Gif-sur-Yvette ont été enfouies en partie sous l'autoroute A87;NULL;NULL;;;IGC2.pdf;;;;0;;1;100;84;NULL;2018-10-12 13:02:05;2.31255345499443;48.7018098083652
+Champteussé-sur-Baconne;0;déchets;stockage;SEDA (Société d'Exploitation des Décharges Angevines) filiale de SITA FD - installation de stockage de déchets dangereux (de Saint-Laurent-des-Eaux. de Chinon);NULL;NULL;;;PAY1.pdf;;;;0;;1;100;87;NULL;2018-10-12 13:02:05;-0.657021297223802;47.6623529752141
+Bellegarde;0;déchets;stockage;Installation de stockage de déchets dangereux en exploitation. ayant reçu des fluorures de calcium (CaF2) appelés communément fluorines. de Socatri (Bollène) ou de Chemex (CEN. Grenoble);NULL;NULL;;;LAR2.pdf;;;;2;;1;100;98;NULL;2018-10-12 13:02:05;4.51449800000003;43.753813
+Bailleau-Armenonville;0;déchets;stockage;installation de stockage de déchets non dangereux. utilisée en août 1989 par le CEA/Saclay pour des boues séchées issues de fosses de décantation des eaux industrielles du site de l'Orme-des-Merisiers à Saint-Aubin;NULL;NULL;;;CEN1.pdf;;;;0;;1;100;99;NULL;2018-10-12 13:02:05;1.67457171175276;48.523492608745
+Angervilliers;0;déchets;stockage;ancienne installation de stockage de déchets dangereux et de déchets non dangereux. utilisée ponctuellement en 1979 par le CEA/SACLAY;NULL;NULL;;;IGC1.pdf;;;;0;;0;100;106;NULL;2018-10-12 13:02:05;2.05416569577144;48.5873506154424
+Sully sur Loire;0;déchets;retraitement;AREVA NP - entretien d'outillages spécifiques utilisés dans le cadre d'interventions de contrôle et de maintenance des sites nucléaires.;NULL;NULL;;;CEN17.pdf;;;;0;;1;100;52;NULL;2018-10-12 13:02:05;2.37346188804355;47.7600692525272
+Maubeuge;0;déchets;retraitement;entreprise de maintenance de matériel nucléaire générant des effluents liquides évacués vers l'évaporateur du CEA/Saclay;NULL;NULL;;;NPC2.pdf;;;;0;;1;100;67;NULL;2018-10-12 13:02:05;3.97249914841469;50.279106392344
+Châlons sur Saône;0;déchets;retraitement;CEMO (Centre de Maintenance des Outillages) - entretien d'outillages de maintenance des centrales nucléaires;NULL;NULL;;;BOU5.pdf;;;;0;;1;100;88;NULL;2018-10-12 13:02:05;4.87031154229661;46.7782494290169
+Saint Laurent des Eaux;0;déchets;;entreposage de graphite;NULL;NULL;Marche;cen_sain_f.htm;;;;;0;;1;100;206;153;2018-10-12 13:02:05;1.5932425934032;47.719143895972
+Bollène;0;déchets;retraitement;usine de fabrication de barrières de diffusion gazeuse et de combustible nucléaire;NULL;NULL;;prov_sfec_f.htm;PRO2-4-27.pdf;;;;0;;1;100;94;NULL;2018-10-12 13:02:05;4.70777693147683;44.3314350071851
+Romainville;0;déchets;recherche;ex centre de recherche de l'industrie pharmaceutique utilisant des traceurs radioactifs pour le marquage des molécules (suivi du mode d'action et d'élimination du médicament).;NULL;NULL;;;IPC2.pdf;;;;0;;1;100;58;NULL;2018-10-12 13:02:05;2.43296741040029;48.8869128884143
+Prévessin-Moens;0;recherche;;CERN - partie française du Centre Européen de Recherches Nucléaires;NULL;NULL;;rhone_cern_f.htm;;;;;0;;1;100;60;NULL;2018-10-12 13:02:05;6.08413954202757;46.2541469371772
+Strasbourg;0;déchets;recherche;« Réacteur Universitaire de Strasbourg » (RUS) - réacteur d'études et de recherche de puissance thermique de 0.1 MWth. principalement utilisé pour la réalisation d'irradiations expérimentales et la production de radionucléides à vie courte.;1967;1997;;;ALS16.pdf;;;;0;;1;100;83;NULL;2018-10-12 13:02:05;7.70562279096878;48.5881545915853
+Bure;153;déchets;qualification;études portant sur l'enfouissement des déchets;NULL;NULL;Marche;lorr_bure_f.htm;;;;;3;;0;100;121;NULL;2018-12-17 14:10:10;5.35751567868478;48.4913385721634
+Wintzenheim;0;déchets;industriel;JAZ - montres et réveils avec peintures radioluminescentes au radium (jusque dans les années 60).;NULL;NULL;;;ALS9.pdf;;;;0;;1;100;46;NULL;2018-10-12 13:02:05;7.29031600000003;48.072898
+Thann;0;déchets;industriel;Thann et Mulhouse (Groupe Rhône-Poulenc). puis Milenium Inorganic Chemicals Thann SAS. produit de l'oxyde de titane à partir d'un sable naturel (ilménite. rutile. slag) comportant des traces d'éléments radioactifs (uranium. thorium).;NULL;NULL;;;ALS15.pdf;;;;0;;1;100;51;NULL;2018-10-12 13:02:05;7.1169763024232;47.8040059056332
+Serquigny;0;déchets;industriel;Société des Terres Rares puis Atofina (ex-Elf Atchem) - usine pour la production du nitrate de thorium;NULL;NULL;;hnorm_serq_f.htm;HAN4.pdf;;;;0;;1;100;56;NULL;2018-10-12 13:02:05;0.709413837059601;49.1069824844812
+Rogerville;0;déchets;industriel;Hydro Agri France - unité de production d'engrais;NULL;1992;Arrêt définitif;;HAN6.pdf;;;;0;;1;100;59;NULL;2018-10-12 13:02:05;0.265175789681146;49.5002417253877
+Ottmarsheim;0;déchets;industriel;installations de production d'acide phosphorique;NULL;NULL;;;ALS14.pdf;;;;0;;1;100;65;NULL;2018-10-12 13:02:05;7.52259202029797;47.7818802812496
+Jarrie;0;déchets;industriel;usine pour la production d'éponge de zirconium et autres métaux;NULL;NULL;;rhone_jar_f.htm;RHO54.pdf;;;;0;;1;100;74;NULL;2018-10-12 13:02:05;5.75858665319073;45.1137924709501
+Ganagobie;0;déchets;industriel;Isotopchim - fabrication et de commercialisation de molécules marquées. principalement au carbone 14;NULL;NULL;;;PRO5.pdf;;;;0;;1;100;77;NULL;2018-10-12 13:02:05;5.92249417767765;44.0039800107782
+Boucau;0;déchets;industriel;Saint-Gobain puis Reno - usine de production de pesticides - traitement de minerais dont monazite;NULL;NULL;Marche;aquit_bocau_f.htm;AQU7.pdf;;;;0;;1;100;93;NULL;2018-10-12 13:02:05;-1.46943726722239;43.5251515127816
+Aubervilliers;0;déchets;industriel;entreprise de fonderie de matériaux de récupération;NULL;NULL;;;IPC60.pdf;;;;0;;1;100;100;NULL;2018-10-12 13:02:05;2.38107096621426;48.9145565122185
+Arudy;0;déchets;industriel;fonderie pour la production de métaux;NULL;NULL;Marche;aquit_arudy_f.htm;AQU6.pdf;;;;0;;1;100;101;NULL;2018-10-12 13:02:05;-0.425970492962677;43.0990880564254
+Solérieux;0;déchets;décharge;décharge industrielle de catégorie 2;NULL;NULL;;rhone_sol_f.htm;RHO18.pdf;;;;0;;1;100;53;NULL;2018-10-12 13:02:05;4.83641933486292;44.3413914018355
+La Hague;167;déchets;;CSM - stockage final de déchets dits de faible activité à vie courte;NULL;NULL;Marche;bnorm_csm_f.htm;BAN3-12-13.pdf;;;;0;;1;100;189;73;2018-12-18 15:42:36;-1.86223;49.67761
+Soulaines;0;déchets;;CSA - stockage final de déchets dits de faible activité à vie courte;NULL;NULL;Marche;champ_csa_f.htm;CHA2.pdf;;;;6;;0;100;117;NULL;2018-10-12 13:02:05;4.68043458796629;48.3997604736627
+Marcoule;108;déchets;;CODOLET-CENTRACO - réduction de volume des déchets et développement de procédés;NULL;NULL;;lang_codo_f.htm;LAR3-7-9-etc.pdf;;;http://www.francenuc.org/fr_sites/lang_marc_f.htm;8;;0;100;69;NULL;2018-12-18 15:37:07;4.69809533909782;44.1386397298062
+Orsay;0;combustible;;usine-pilote de frittage;NULL;NULL;Arrêt définitif;idfg_orsay_f.htm;IGC41.pdf;;;;0;;0;100;64;NULL;2018-10-12 13:02:05;2.17150742539402;48.6980864890083
+Veurey-Voroize;0;combustible;;usine de fabrication de combustibles à l'uranium;NULL;NULL;;rhone_veu_f.htm;RHO10.pdf;;;;1;;1;100;49;NULL;2018-10-12 13:02:05;5.61715797943648;45.2684950364882
+Bonneuil sur Marne;0;combustible;;production du combustible;NULL;NULL;Arrêt définitif;idfp_bon_f.htm;;;;;0;;1;100;33;NULL;2018-10-12 13:02:05;2.49212657107618;48.750379185235
+La Hague;167;combustible;retraitement;usines de retraitement de combustibles irradiés pour produire le plutonium militaire et civil;NULL;NULL;Marche;bnorm_hague_f.htm;BAN3-12-13.pdf;;;;0;;1;100;73;NULL;2018-12-18 15:42:50;-1.88218;49.67865
+Comhurex Pierrelatte;159;combustible;enrichissement;conversion et enrichissement de l'uranium;NULL;NULL;Marche;rhone_tri_f.htm;RHO13-16-43-etc.pdf;;;;2;;0;100;62;NULL;2018-12-18 15:40:09;4.72130720076016;44.336814500979
+Romans sur Isère - FBFC;166;combustible;combustible;usines de fabrication de combustible;NULL;NULL;;rhone_rom_f.htm;RHO17.pdf;;;;2;;1;100;37;NULL;2018-12-18 15:41:54;5.07068674486404;45.0453803711334
+Comhurex Malvesi;155;combustible;;AREVA NC usine de raffinage et de conversion d'uranium;NULL;NULL;Marche;lang_malv_f.htm;LAR5-12.pdf;;;;5;;1;100;40;NULL;2018-12-18 15:39:37;2.89530604844644;43.2417418160369
+Creys-Malville SUPERPHÉNIX;149;centrale;SPX;production d'électricité et de plutonium;NULL;NULL;Arrêt définitif;rhone_crey_f.htm;;creys00.jpg;phenix;http://www.dissident-media.org/infonucleaire/phenix.html;4;;0;60;8;NULL;2018-12-18 15:40:42;5.46391187215265;45.7655224601807
+Brennilis;175;centrale;EL;production d'électricité;NULL;NULL;Arrêt définitif;bret_brenn_f.htm;;;monts_d_arree;;3;;0;50;6;NULL;2018-10-26 15:45:55;-3.88059490969883;48.3523416661398
+Gravelines;171;centrale;6 x 900 MW;production d'électricité;NULL;NULL;;nord_grav_f.htm;;gravelines00.jpg;gravelines;;6;;0;100;18;NULL;2018-10-26 15:48:51;2.12050875780145;51.0238094759591
+Le Tricastin;113;centrale;4 x 900 MW;production d'électricité;NULL;NULL;;rhone_tri_f.htm;;tricastin00.jpg;tricastin;;0;;0;100;4;NULL;2018-10-26 15:56:38;4.73572106079152;44.3313384265488
+Bugey;104;centrale;4 x 900 MW;production d'électricité et de plutonium;NULL;NULL;;rhone_bug_f.htm;;bugey00.jpg;bugey;;7;;0;100;9;NULL;2018-10-26 15:56:38;5.26653818802291;45.8072248013421
+Blayais;136;centrale;4 x 900 MW;production d'électricité;NULL;NULL;;aquit_blay_f.htm;;blayais00.jpg;blayais;;6;;0;100;3;NULL;2018-10-26 15:49:15;-0.690812850465903;45.262563241595
+Dampierre;132;centrale;4 x 900 MW;production d'électricité;NULL;NULL;;cen_dam_f.htm;;dampierre00.jpg;dampierre;;3;;0;100;2;NULL;2018-10-26 15:46:59;2.49997396805297;47.7250387096602
+Cruas-Meysse;134;centrale;4 x 900 MW;production d'électricité;NULL;NULL;;rhone_cru_f.htm;;cruas-meysse00.jpg;cruas;;5;;0;100;16;NULL;2018-10-26 15:45:55;4.7516943051636;44.6214395114098
+Chinon;169;centrale;4 x 900 MW;production d'électricité et de plutonium;NULL;NULL;;cen_chinon_f.htm;;chinon00.jpg;chinon;;3;;0;100;7;NULL;2018-10-26 15:45:55;0.179644070275217;47.2272502583534
+Paluel;131;centrale;4 x 1300 MW;production d'électricité;NULL;NULL;;hnorm_pal_f.htm;;paluel00.jpg;paluel;;2;;0;100;17;NULL;2018-10-26 15:56:38;0.631919182566307;49.8690826872633
+Cattenom;105;centrale;4 x 1300 MW;production d'électricité;NULL;NULL;;lorr_catt_f.htm;;cattenom00.jpg;cattenom;;3;;0;100;5;NULL;2018-10-26 15:45:55;6.20986750900349;49.4021312531677
+Saint Laurent des Eaux;174;centrale;2 x 900 MW;production d'électricité et de plutonium;NULL;NULL;;cen_sain_f.htm;;saint-laurent-des-eaux00.jpg;saint-laurent;;4;;0;100;11;NULL;2018-10-26 15:56:38;1.5932425934032;47.719143895972
+Fessenheim;161;centrale;2 x 900 MW;production d'électricité;NULL;NULL;;als_fess_f.htm;;fessenheim00.jpg;fessenheim;;2;;0;100;19;NULL;2018-10-26 15:57:20;7.55997084102097;47.9086430613095
+Civaux;109;centrale;2 x 1550 MW;production d'électricité;NULL;NULL;;poit_civ_f.htm;;civaux00.jpg;civaux;;5;;0;100;10;NULL;2018-10-26 15:45:55;0.667699870373724;46.4606295837955
+Chooz;137;centrale;2 x 1450 MW;production d'électricité;NULL;NULL;;champ_chooz_f.htm;;chooz00.jpg;chooz;;1;;0;100;13;NULL;2018-10-26 15:45:55;4.7862924116337;50.0822545920945
+Flamanville;170;centrale;2 x 1300 MW + EPR;production d'électricité;NULL;NULL;;bnorm_flam_f.htm;;flamanville00.jpg;flamanville;;0;;0;100;12;NULL;2018-10-26 15:48:16;-1.88326643549198;49.5480120274562
+Saint-Alban-du-Rhône;173;centrale;2 x 1300 MW;production d'électricité;NULL;NULL;;rhone_alb_f.htm;;saint-alban00.jpg;saint-alban;;5;;0;100;14;NULL;2018-10-26 15:46:31;4.75007719530291;45.4024100171543
+Penly;111;centrale;2 x 1300 MW;production d'électricité;NULL;NULL;;hnorm_penly_f.htm;;penly00.jpg.html;penly;http://www.mediapart.fr/journal/france/250611/rares-photos-dune-fuite-dans-une-centrale-nucleaire;2;;0;100;20;NULL;2018-10-26 15:56:38;1.16487261680204;49.9873585361577
+Nogent-sur-Seine;172;centrale;2 x 1300 MW;production d'électricité;NULL;NULL;;champ_nog_f.htm;;nogent00.jpg;nogent;;4;;0;100;21;NULL;2018-10-26 15:56:38;3.52143396227238;48.5231847484729
+Golfech;110;centrale;2 x 1300 MW;production d'électricité;NULL;NULL;;midi_gol_f.htm;;golfech00.jpg;golfech;;4;;0;100;15;NULL;2018-10-26 15:48:30;0.839084099704749;44.1012875533318
+Belleville-sur-Loire;168;centrale;2 x 1300 MW;production d'électricité;NULL;NULL;;cen_bell_f.htm;;belleville00.jpg;belleville;;3;;0;100;1;NULL;2018-10-26 15:45:55;2.86895170479602;47.5166515694487
+Saint Martin la Porte;0;autre;;usine de production de béryllium et de thorium;NULL;NULL;Arrêt définitif;rhone_calyp_f.htm;;;;;0;;1;20;30;NULL;2018-10-12 13:02:05;6.44808600000002;45.240058
+Frenay - La Praz Tepp;0;autre;;usine de fabrication de béryllium et de carbure d'uranium. et décharge;NULL;NULL;Arrêt définitif;rhone_praz_f.htm;;;;;0;;1;20;28;NULL;2018-10-12 13:02:05;6.62778394202846;45.1949354835316
+Sable;0;autre;stérilisateur;Ionisos;NULL;NULL;Marche;;;;;http://www.ionisos.com/fr/sable.html;0;;0;100;112;NULL;2018-10-12 13:02:05;-0.300705918121111;47.8254496360651
+Pouzauges;0;autre;irradiateur;Ionisos;NULL;NULL;Marche;;;;;http://www.ionisos.fr/fr/pouzauges.html;1;;0;100;110;NULL;2018-10-12 13:02:05;-0.842999036557941;46.7710744629342
+Marseille;0;autre;irradiateur;irradiateur Isotron ex Gammaster (aliments et instruments chirurgicaux);NULL;NULL;Marche;;;;;http://resosol.org/Gazette/1989/94_95_22.html;1;;1;100;109;NULL;2018-10-12 13:02:05;5.38351175963633;43.3355544285898
+Limeil Brévannes;0;militaire;irradiateur;Sodern développe et fabrique des sources neutroniques à usages civil et militaire;NULL;NULL;Marche;idfp_sod_f.htm;;;;;0;;1;20;188;26;2018-10-12 13:02:05;2.4863938827865;48.7491115958047
+Chaumesnil;0;autre;irradiateur;Ionisos;NULL;NULL;Marche;;;;;http://www.ionisos.com/fr/chaumesnil.html;0;;0;100;108;NULL;2018-10-12 13:02:05;4.61495291657722;48.3628203737946
+Dagneux;0;autre;irradiateur;Ionisos;NULL;NULL;Marche;;;;;http://www.ionisos.com/fr/dagneux.html;0;;1;100;111;NULL;2018-10-12 13:02:05;5.05972904699661;45.841111784191
+Valognes;0;autre;gare;gare ferroviaire de La Hague;NULL;NULL;Marche;;;;;;0;;0;100;119;NULL;2018-10-12 13:02:05;-1.49903;49.50889
+Varennes-Vauzelles;0;militaire;déchets;DGA - dépôt de matériel aéronautique;NULL;NULL;Marche;bourg_varen_f.htm;;;;;0;;0;100;204;NULL;2018-10-12 13:02:05;3.13797;47.081812
+Bugey 4;0;réacteur;900 MW;palier CPO;1979;NULL;Marche;rhone_bug_f.htm;;;70;;0;;1;100;195;9;2018-10-12 13:02:05;5.26653818802291;45.8072248013421
+Bugey 5;0;réacteur;900 MW;palier CPO;1979;NULL;Marche;rhone_bug_f.htm;;;71;;0;;1;100;196;9;2018-10-12 13:02:05;5.26653818802291;45.8072248013421
+Chinon B1;0;réacteur;900 MW;palier CP1;1982;NULL;Marche;cen_chinon_f.htm;;;61;;0;;1;100;146;7;2018-10-12 13:02:05;0.179644070275217;47.2272502583534
+Chinon B2;0;réacteur;900 MW;palier CP1;1983;NULL;Marche;cen_chinon_f.htm;;;62;;0;;1;100;147;7;2018-10-12 13:02:05;0.179644070275217;47.2272502583534
+Chinon B3;0;réacteur;900 MW;palier CP1;1986;NULL;Marche;cen_chinon_f.htm;;;63;;0;;1;100;148;7;2018-10-12 13:02:05;0.179644070275217;47.2272502583534
+Chinon B4;0;réacteur;900 MW;palier CP1;1987;NULL;Marche;cen_chinon_f.htm;;;64;;0;;1;100;149;7;2018-10-12 13:02:05;0.179644070275217;47.2272502583534
+Cruas-Meysse;0;réacteur;900 MW;palier CP2;1983;NULL;Marche;;;;96;;0;;1;100;167;16;2018-10-12 13:02:05;4.7516943051636;44.6214395114098
+Cruas-Meysse;0;réacteur;900 MW;palier CP2;1984;NULL;Marche;;;;97;;0;;1;100;168;16;2018-10-12 13:02:05;4.7516943051636;44.6214395114098
+Cruas-Meysse;0;réacteur;900 MW;palier CP2;1984;NULL;Marche;;;;98;;0;;1;100;169;16;2018-10-12 13:02:05;4.7516943051636;44.6214395114098
+Cruas-Meysse;0;réacteur;900 MW;palier CP2;1984;NULL;Marche;;;;99;;0;;1;100;170;16;2018-10-12 13:02:05;4.7516943051636;44.6214395114098
+Dampierre 1;0;réacteur;900 MW;palier CP1;1980;NULL;Marche;;;;74;;0;;1;100;127;1;2018-10-12 13:02:05;2.49997396805297;47.7250387096602
+Dampierre 2;0;réacteur;900 MW;palier CP1;1980;NULL;Marche;;;;75;;0;;1;100;128;1;2018-10-12 13:02:05;2.49997396805297;47.7250387096602
+Dampierre 3;0;réacteur;900 MW;palier CP1;1981;NULL;Marche;;;;76;;0;;1;100;129;1;2018-10-12 13:02:05;2.49997396805297;47.7250387096602
+Dampierre 4;0;réacteur;900 MW;palier CP1;1981;NULL;Marche;;;;77;;0;;1;100;130;1;2018-10-12 13:02:05;2.49997396805297;47.7250387096602
+Fessenheim 1;0;réacteur;900 MW;palier CPO;1977;NULL;Marche;;;;72;;0;;1;100;181;19;2018-10-12 13:02:05;7.55997084102097;47.9086430613095
+Fessenheim 2;0;réacteur;900 MW;palier CPO;1977;NULL;Marche;;;;73;;0;;1;100;182;19;2018-10-12 13:02:05;7.55997084102097;47.9086430613095
+Gravelines B1;0;réacteur;900 MW;palier CP1;1980;NULL;Marche;;;;78;;0;;1;100;175;18;2018-10-12 13:02:05;2.12050875780145;51.0238094759591
+Gravelines B2;0;réacteur;900 MW;palier CP1;1980;NULL;Marche;;;;79;;0;;1;100;176;18;2018-10-12 13:02:05;2.12050875780145;51.0238094759591
+Gravelines B3;0;réacteur;900 MW;palier CP1;1980;NULL;Marche;;;;80;;0;;1;100;177;18;2018-10-12 13:02:05;2.12050875780145;51.0238094759591
+Gravelines B4;0;réacteur;900 MW;palier CP1;1981;NULL;Marche;;;;81;;0;;1;100;178;18;2018-10-12 13:02:05;2.12050875780145;51.0238094759591
+Gravelines C5;0;réacteur;900 MW;palier CP1;1984;NULL;Marche;;;;82;;0;;1;100;179;18;2018-10-12 13:02:05;2.12050875780145;51.0238094759591
+Gravelines C6;0;réacteur;900 MW;palier CP1;1985;NULL;Marche;;;;83;;0;;1;100;180;18;2018-10-12 13:02:05;2.12050875780145;51.0238094759591
+Le Blayais 1;0;réacteur;900 MW;palier CP1;1981;NULL;Marche;;;;88;;0;;1;100;131;3;2018-10-12 13:02:05;-0.690812850465903;45.262563241595
+Le Blayais 2;0;réacteur;900 MW;palier CP1;1982;NULL;Marche;;;;89;;0;;1;100;132;3;2018-10-12 13:02:05;-0.690812850465903;45.262563241595
+Le Blayais 3;0;réacteur;900 MW;palier CP1;1983;NULL;Marche;;;;90;;0;;1;100;133;3;2018-10-12 13:02:05;-0.690812850465903;45.262563241595
+Le Blayais 4;0;réacteur;900 MW;palier CP1;1983;NULL;Marche;;;;91;;0;;1;100;134;3;2018-10-12 13:02:05;-0.690812850465903;45.262563241595
+Saint Laurent des Eaux B1;0;réacteur;900 MW;palier CP2;1981;NULL;Marche;cen_sain_f.htm;;;65;;0;;1;100;155;11;2018-10-12 13:02:05;1.5932425934032;47.719143895972
+Saint Laurent des Eaux B2;0;réacteur;900 MW;palier CP2;1981;NULL;Marche;cen_sain_f.htm;;;66;;0;;1;100;156;11;2018-10-12 13:02:05;1.5932425934032;47.719143895972
+Tricastin 1;0;réacteur;900 MW;palier CP1;1980;NULL;Marche;rhone_tri_f7.htm;;;84;;0;;1;100;135;4;2018-10-12 13:02:05;4.73572106079152;44.3313384265488
+Tricastin 2;0;réacteur;900 MW;palier CP1;1980;NULL;Marche;rhone_tri_f7.htm;;;85;;0;;1;100;136;4;2018-10-12 13:02:05;4.73572106079152;44.3313384265488
+Tricastin 3;0;réacteur;900 MW;palier CP1;1980;NULL;Marche;rhone_tri_f7.htm;;;86;;0;;1;100;137;4;2018-10-12 13:02:05;4.73572106079152;44.3313384265488
+Tricastin 4;0;réacteur;900 MW;palier CP1;1981;NULL;Marche;rhone_tri_f7.htm;;;87;;0;;1;100;138;4;2018-10-12 13:02:05;4.73572106079152;44.3313384265488
+Flamanville 3;0;réacteur;EPR;palier EPR;NULL;NULL;Construction;;;;;;0;;1;100;159;12;2018-10-12 13:02:05;-1.88326643549198;49.5480120274562
+Penly 3;0;réacteur;EPR;palier EPR;NULL;NULL;Projet;;;;;;0;;1;100;185;20;2018-10-12 13:02:05;1.16487261680204;49.9873585361577
+Superphénix;0;réacteur;SPX;production d'électricité et de plutonium;NULL;NULL;Arrêt définitif;rhone_crey_f.htm;;;60;;0;;0;60;191;8;2018-10-12 13:02:05;5.46391187215265;45.7655224601807
+Fontenay-aux-Roses;0;recherche;;CEA - centre de recherche et développement. officiellement civil;NULL;NULL;Marche;idfp_font_f.htm;;;;;0;;0;100;79;NULL;2018-10-12 13:02:05;2.27653515839616;48.7905200083135
+Fontenay-aux-Roses;0;recherche;;CEA - centre de recherche et développement. officiellement civil;NULL;NULL;Marche;idfp_font_f.htm;;;;;0;;0;100;124;NULL;2018-10-12 13:02:05;2.27617160183142;48.7898706877657
+Saclay;177;recherche;;CEA - recherche fondamentale et appliquée;NULL;NULL;Marche;idfg_sac_f.htm;;;;;0;;0;100;122;NULL;2018-12-18 15:46:34;2.15200302659242;48.7284544583013
+Grenoble;192;recherche;;Centre d'Études Nucléaires de Grenoble - recherche théorique et appliquée;NULL;NULL;;rhone_cen_f.htm;;;;http://www.francenuc.org/fr_sites/rhone_ill_f.htm;7;;0;100;76;NULL;2018-12-18 15:35:57;5.69684562805296;45.2037511114213
+Caen;0;recherche;;GANIL - laboratoire de recherche fondamentale;NULL;NULL;Marche;bnorm_ganil_f.htm;;;;;0;;0;100;89;NULL;2018-10-12 13:02:05;-0.360423927210273;49.2114467969772
+fosse des Casquets;0;déchets;;immersion de déchets belges et britanniques à 100-150 m de profondeur;1952;1963;;;;;;;0;;0;100;205;NULL;2018-10-12 13:02:05;-2.34768;49.87091
+Saint Sylvain d'Anjou;0;autre;sous-traitant;CMI. chaudronnerie industrielle. travaille pour le projet EPR;NULL;NULL;;;;;;;0;;0;60;207;NULL;2018-10-12 13:02:05;-0.47961;47.53137
+Montreuil-Juigné;0;autre;crayons;tubes pour le gainage des tubes des assemblages combustibles;NULL;NULL;;;;;;;0;;1;20;208;NULL;2018-10-12 13:02:05;-0.6179;47.52939
+Morvilliers;0;déchets;centre de stockage;stockage de déchets nucléaires Très Faiblement Radioactifs;2003;NULL;;;;;;http://www.andra.fr/andra-aube/pages/fr/menu4/le-centre-de-stockage-tfa/le-centre-1093.html;3;;0;80;209;NULL;2018-10-12 13:02:05;4.666667;48.373333
+Brienne-le-Château;0;militaire;dépôt de munitions;stockage d'obus de 105 mm à l'uranium appauvri. APFSDS-T OFL 105 E2. pour les intimes;NULL;NULL;;;;;;http://www.liberation.fr/societe/0101359931-plus-de-2-000-obus-a-l-uranium-appauvri-testes-en-france;0;;60;100;210;NULL;2018-10-12 13:02:05;4.56688;48.3965
+Brienne-le-Château;0;autre;gare;terminal ferrovaire du CSA ;NULL;NULL;;champ_csa_f.htm;;;;http://www.andra.fr/index.php?id=glossaire__1_1&lettre=C;0;;0;80;211;NULL;2018-10-12 13:02:05;4.53196;48.39564
+Gâvres;0;militaire;polygône de tir;centre d'essais et de lancements de missiles de Gâvres. utilisé pour le M51;NULL;NULL;Marche;;;;;http://www.voilesetvoiliers.com/croisiere/navigation-shom-les-avis-aux-navigateurs-d-avril-2009;0;;0;100;212;NULL;2018-10-12 13:02:05;-3.32654;47.70065
+Biscarrosse;0;militaire;CELM;centre d'essais et de lancements de missiles. utilisé pour le M51;NULL;NULL;Marche;;;;;http://asstech.gdah.free.fr/spip/spip.php?article17;0;;0;100;213;NULL;2018-10-12 13:02:05;-1.16667;44.4
+Le Bugey;0;déchets;;ICEDA - projet d'Installation de Conditionnement et d'Entreposage de Déchets Activés;NULL;NULL;;;;;; 	http://www.sortirdunucleaire.org/index.php?menu=actualites&sousmenu=dossiers&soussousmenu=Iceda&page=index;0;;0;100;214;NULL;2018-10-12 13:02:05;5.2665381880229;45.807224801342

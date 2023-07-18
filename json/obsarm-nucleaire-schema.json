@@ -1,0 +1,116 @@
+{
+  "fields": [
+    {
+      "name": "Lieu",
+      "title": "Lieu",
+      "description": "Lieu",
+      "type": "string"
+    },
+    {
+      "name": "idmotspip",
+      "title": "idmotspip",
+      "type": "string"
+    },
+    {
+      "name": "Type",
+      "title": "Type",
+      "type": "string"
+    },
+    {
+      "name": "SousType",
+      "title": "SousType",
+      "type": "string"
+    },
+    {
+      "name": "Description",
+      "title": "Description",
+      "type": "string"
+    },
+    {
+      "name": "AnneeMSI",
+      "title": "AnneeMSI",
+      "type": "string"
+    },
+    {
+      "name": "AnneeMAD",
+      "title": "AnneeMAD",
+      "type": "string"
+    },
+    {
+      "name": "Status",
+      "title": "Status",
+      "type": "string"
+    },
+    {
+      "name": "FranceNuc",
+      "title": "FranceNuc",
+      "type": "string"
+    },
+    {
+      "name": "Andra",
+      "title": "Andra",
+      "type": "string"
+    },
+    {
+      "name": "EDF",
+      "title": "EDF",
+      "type": "string"
+    },
+    {
+      "name": "INSC",
+      "title": "INSC",
+      "type": "string"
+    },
+    {
+      "name": "url",
+      "title": "url",
+      "type": "string",
+      "format": "uri"
+    },
+    {
+      "name": "nbPhotos",
+      "title": "nbPhotos",
+      "type": "number"
+    },
+    {
+      "name": "the_geom",
+      "title": "the_geom",
+      "type": "string"
+    },
+    {
+      "name": "PlaceApproximative",
+      "title": "PlaceApproximative",
+      "type": "string"
+    },
+    {
+      "name": "Priority",
+      "title": "Priority",
+      "type": "number"
+    },
+    {
+      "name": "RecNo",
+      "title": "RecNo",
+      "type": "number"
+    },
+    {
+      "name": "RecNoPere",
+      "title": "RecNoPere",
+      "type": "string"
+    },
+    {
+      "name": "UpdateTimestamp",
+      "title": "UpdateTimestamp",
+      "type": "string"
+    },
+    {
+      "name": "longitude",
+      "title": "Longitude",
+      "type": "number"
+    },
+    {
+      "name": "latitude",
+      "title": "Latitude",
+      "type": "number"
+    }
+  ]
+}
